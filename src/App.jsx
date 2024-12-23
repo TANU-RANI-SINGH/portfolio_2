@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./component/Header.jsx";
 import Home from "./component/Home.jsx";
 import Project from "./component/Project.jsx";
-import Resume from "./component/resume.jsx";
+import Resume from "./component/Resume.jsx";
 import Contact from "./component/Contact.jsx";
 import Footer from "./component/Footer.jsx";
 
